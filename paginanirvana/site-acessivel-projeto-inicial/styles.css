@@ -80,8 +80,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/1741743489989.png') top right no-repeat,
+        url('img/1741743320197.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -109,12 +109,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/1741743320197.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/Fondo\ de\ pantalla\ de\ nIrvana.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -122,7 +122,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #f8f6f6;
+    background-color: #575757;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
