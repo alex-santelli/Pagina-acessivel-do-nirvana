@@ -77,8 +77,8 @@ section {
 
 #tropicalia {
     position: relative;
-    padding-top: 5rem;
-    margin-top: 3rem;
+    padding-top: 10rem;
+    margin-top: 10rem;
     margin-bottom: 3rem;
     background: url('img/1741743489989.png') top right no-repeat,
         url('img/1741743320197.png') bottom left no-repeat;
@@ -141,4 +141,6 @@ h2 {
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
     background-color: #ffffff;
+    width: 45rem;
 }
+
