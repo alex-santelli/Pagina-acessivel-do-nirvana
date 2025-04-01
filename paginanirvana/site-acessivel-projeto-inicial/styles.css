@@ -39,6 +39,9 @@ section {
     margin: 0 auto;
 }
 
+Galeria
+Contato
+Boas
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
@@ -48,12 +51,9 @@ section {
     height: auto;
 }
 
-
-.esquerda-conteudo {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1rem;
+Galeria
+Contato
+Boas
 
 }
 
@@ -63,6 +63,9 @@ section {
     border-radius: 30px;
     border: none;
     width: 14em;
+    Galeria
+    Contato
+    Boas
     /* Convertido para em aumenta o tamanho da fonte por tabela*/
     height: 3em;
     /* Convertido para em */
@@ -71,7 +74,10 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--laranja-cl
+    Galeria
+    Contato
+    Boasaro);
 }
 
 
@@ -85,6 +91,9 @@ section {
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
+Galeria
+Contato
+Boas
 
 #tropicalia .container {
     display: flex;
@@ -98,6 +107,9 @@ section {
 
 h2 {
     font-family: 'Lemon', serif;
+    Galeria
+    Contato
+    Boas
     font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
@@ -109,7 +121,10 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/1741743320197.png') bottom right no-repeat;
+    background: url('img/1741743320197.png
+    Galeria
+    Contato
+    Boas') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -133,6 +148,9 @@ h2 {
 }
 
 .formulario button {
+    Galeria
+    Contato
+    Boas
     background-color: #ffffff;
     border: none;
     font-weight: bold;
@@ -142,5 +160,12 @@ h2 {
 .form-control {
     background-color: #ffffff;
     width: 45rem;
+}
+
+.menu-acessibilidade{
+    position: fixed;
+    top: 2rem;
+    right: 20px;
+    z-index: 1000;
 }
 
